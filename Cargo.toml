@@ -1,11 +1,11 @@
 [package]
-name = "passforge"
+name = "safekey"
 version = "0.1.0"
 edition = "2018"
 description = "A command-line password generator"
 authors = ["Irfan"]
 license = "MIT"
-repository = "https://github.com/malwarebo/passforge"
+repository = "https://github.com/malwarebo/safekey"
 [[bin]]
 name = "passforge"
 path = "src/main.rs"
